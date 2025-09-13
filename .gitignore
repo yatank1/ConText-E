@@ -1,0 +1,116 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Model files (large files - use Git LFS if needed)
+*.pkl
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.h5
+*.hdf5
+
+# Data files (sensitive data)
+data/
+*.csv
+*.json
+*.parquet
+*.xlsx
+*.xls
+
+# Results and checkpoints
+results/
+checkpoints/
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# API keys and secrets
+.env
+config.ini
+secrets.json
+*.key
+*.pem
+
+# Large datasets
+datasets/
+raw_data/
+processed_data/
+
+# Model outputs
+outputs/
+predictions/
+evaluations/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+*.lnk
+
+# Backup files
+*.bak
+*.backup
+*_backup.*
+
+# Large model directories
+saved_models/
+models/
+pretrained/
+
+# Cache directories
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation build
+docs/_build/
