@@ -214,19 +214,6 @@ pip install -r requirements-dev.txt  # Development dependencies
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📖 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{context_e_2024,
-  title={ConText-E: Multi-Modal Sentiment Analysis for Climate Change Discourse},
-  author={Your Name},
-  journal={Conference/Journal Name},
-  year={2024},
-  url={https://github.com/yourusername/ConText-E_Project}
-}
-```
 
 ## 🙏 Acknowledgments
 
