@@ -235,20 +235,6 @@ If you use this work in your research, please cite:
 - **LightGBM** team for the gradient boosting framework
 - **BERTopic** for topic modeling capabilities
 
-## 📞 Contact
-
-- **Author**: Your Name
-- **Email**: your.email@university.edu
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-
-## 🔮 Future Work
-
-- [ ] Cross-domain evaluation on other sentiment datasets
-- [ ] Ablation studies for feature importance
-- [ ] Real-time streaming sentiment analysis
-- [ ] Multi-language support
-- [ ] Interpretability analysis
 
 ---
 
